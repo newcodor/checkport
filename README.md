@@ -15,4 +15,4 @@ Usage of checkport_windows_amd64_v1.0.exe:
         timeout (default 3)
 ```
 
-![1](img\1.jpg)
+![1](img/1.jpg)
